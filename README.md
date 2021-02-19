@@ -1,5 +1,5 @@
-# OnyxianCoreJars
-Onyxian Core Jars Are Uploaded Here, for Manual or Automatic Download.
+# OnyxianCore Jars
+The jars of the OnyxianCore Are Uploaded Here, for Manual or Automatic Download.
 
 
 To manually download the OnyxianCore:
